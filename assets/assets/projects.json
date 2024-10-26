@@ -1,0 +1,35 @@
+[
+  {
+    "isWeb": true,
+    "isAndroid": true,
+    "isIOS": true,
+    "isWindows": true,
+    "logo": "FutbolLogo.png",
+    "name": "Futbol - Cyprus Livescore",
+    "playStore": "https://play.google.com/store/apps/details?id=com.livescore.cyprus",
+    "appStore": "https://apps.apple.com/us/app/futbol-cyprus-livescore/id6449159778",
+    "website": "https://cypruslivescore.web.app"
+  },
+  {
+    "isWeb": false,
+    "isAndroid": true,
+    "isIOS": true,
+    "isWindows": false,
+    "logo": "RadioLogo.png",
+    "name": "Radio Cyprus",
+    "playStore": "https://play.google.com/store/apps/details?id=com.radio.cyprus",
+    "appStore": "https://apps.apple.com/us/app/online-radio-cyprus/id6477147282",
+    "website": ""
+  },
+  {
+    "isWeb": false,
+    "isAndroid": true,
+    "isIOS": false,
+    "isWindows": false,
+    "logo": "TetrisLogo.jpg",
+    "name": "Tetris Game",
+    "playStore": "https://play.google.com/store/apps/details?id=com.retro.tetris",
+    "appStore": "",
+    "website": ""
+  }
+]
