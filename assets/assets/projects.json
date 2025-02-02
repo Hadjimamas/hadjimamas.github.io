@@ -31,5 +31,16 @@
     "playStore": "https://play.google.com/store/apps/details?id=com.retro.tetris",
     "appStore": "",
     "website": ""
+  },
+  {
+    "isWeb": false,
+    "isAndroid": true,
+    "isIOS": true,
+    "isWindows": false,
+    "logo": "KidsClubLogo.png",
+    "name": "Kids Club",
+    "playStore": "https://play.google.com/store/apps/details?id=com.club.kids",
+    "appStore": "https://apps.apple.com/us/app/kids-club-games/id6740991424",
+    "website": ""
   }
 ]
