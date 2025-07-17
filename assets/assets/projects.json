@@ -42,5 +42,16 @@
     "playStore": "https://play.google.com/store/apps/details?id=com.club.kids",
     "appStore": "https://apps.apple.com/us/app/kids-club-games/id6740991424",
     "website": ""
+  },
+  {
+    "isWeb": false,
+    "isAndroid": true,
+    "isIOS": false,
+    "isWindows": false,
+    "logo": "PokeMintLogo.png",
+    "name": "PokeMint",
+    "playStore": "https://play.google.com/store/apps/details?id=com.hadjimamas.pokemon",
+    "appStore": "",
+    "website": ""
   }
 ]
