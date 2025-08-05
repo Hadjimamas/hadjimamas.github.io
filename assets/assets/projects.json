@@ -15,8 +15,8 @@
     "isAndroid": true,
     "isIOS": true,
     "isWindows": false,
-    "logo": "RadioLogo.png",
-    "name": "Radio Cyprus",
+    "logo": "TVRadioCyprus.jpeg",
+    "name": "Cyprus Media Hub",
     "playStore": "https://play.google.com/store/apps/details?id=com.radio.cyprus",
     "appStore": "https://apps.apple.com/us/app/online-radio-cyprus/id6477147282",
     "website": ""
@@ -26,8 +26,8 @@
     "isAndroid": true,
     "isIOS": false,
     "isWindows": false,
-    "logo": "TetrisLogo.jpg",
-    "name": "Tetris Game",
+    "logo": "BrikzLogo.png",
+    "name": "Brikz",
     "playStore": "https://play.google.com/store/apps/details?id=com.retro.tetris",
     "appStore": "",
     "website": ""
@@ -37,8 +37,8 @@
     "isAndroid": true,
     "isIOS": true,
     "isWindows": false,
-    "logo": "KidsClubLogo.png",
-    "name": "Kids Club",
+    "logo": "KidsLernigClubLogo.jpg",
+    "name": "Kids Learning Club",
     "playStore": "https://play.google.com/store/apps/details?id=com.club.kids",
     "appStore": "https://apps.apple.com/us/app/kids-club-games/id6740991424",
     "website": ""
