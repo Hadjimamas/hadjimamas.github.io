@@ -11,7 +11,7 @@
     "website": "https://cypruslivescore.web.app"
   },
   {
-    "isWeb": false,
+    "isWeb": true,
     "isAndroid": true,
     "isIOS": true,
     "isWindows": false,
@@ -19,7 +19,7 @@
     "name": "Cyprus Media Hub",
     "playStore": "https://play.google.com/store/apps/details?id=com.radio.cyprus",
     "appStore": "https://apps.apple.com/us/app/online-radio-cyprus/id6477147282",
-    "website": ""
+    "website": "https://cyprus-radio-dc77b.web.app"
   },
   {
     "isWeb": false,
@@ -33,7 +33,7 @@
     "website": ""
   },
   {
-    "isWeb": false,
+    "isWeb": true,
     "isAndroid": true,
     "isIOS": true,
     "isWindows": false,
@@ -41,16 +41,16 @@
     "name": "Kids Learning Club",
     "playStore": "https://play.google.com/store/apps/details?id=com.club.kids",
     "appStore": "https://apps.apple.com/us/app/kids-club-games/id6740991424",
-    "website": ""
+    "website": "https://kidslearningclub-659f5.web.app"
   },
   {
     "isWeb": false,
     "isAndroid": true,
     "isIOS": false,
     "isWindows": false,
-    "logo": "PokeMintLogo.png",
-    "name": "PokeMint",
-    "playStore": "https://play.google.com/store/apps/details?id=com.hadjimamas.pokemon",
+    "logo": "FuelPricesLogo.png",
+    "name": "Cyprus Fuel Prices",
+    "playStore": "https://play.google.com/store/apps/details?id=com.hadjimamas.fuelPrices",
     "appStore": "",
     "website": ""
   }
