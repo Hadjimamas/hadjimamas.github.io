@@ -46,12 +46,12 @@
   {
     "isWeb": false,
     "isAndroid": true,
-    "isIOS": false,
+    "isIOS": true,
     "isWindows": false,
     "logo": "FuelPricesLogo.png",
     "name": "Cyprus Fuel Prices",
     "playStore": "https://play.google.com/store/apps/details?id=com.hadjimamas.fuelPrices",
-    "appStore": "",
+    "appStore": "https://apps.apple.com/us/app/cyprus-fuel-prices/id6761128113",
     "website": ""
   }
 ]
