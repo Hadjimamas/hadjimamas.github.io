@@ -22,17 +22,6 @@
     "website": "https://cyprus-radio-dc77b.web.app"
   },
   {
-    "isWeb": false,
-    "isAndroid": true,
-    "isIOS": false,
-    "isWindows": false,
-    "logo": "BrikzLogo.png",
-    "name": "Brikz",
-    "playStore": "https://play.google.com/store/apps/details?id=com.retro.tetris",
-    "appStore": "",
-    "website": ""
-  },
-  {
     "isWeb": true,
     "isAndroid": true,
     "isIOS": true,
