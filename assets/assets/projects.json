@@ -26,7 +26,7 @@
     "isAndroid": true,
     "isIOS": true,
     "isWindows": false,
-    "logo": "KidsLernigClubLogo.jpg",
+    "logo": "KidsLearningClubLogo.png",
     "name": "Kids Learning Club",
     "playStore": "https://play.google.com/store/apps/details?id=com.club.kids",
     "appStore": "https://apps.apple.com/us/app/kids-club-games/id6740991424",
@@ -42,5 +42,16 @@
     "playStore": "https://play.google.com/store/apps/details?id=com.hadjimamas.fuelPrices",
     "appStore": "https://apps.apple.com/us/app/cyprus-fuel-prices/id6761128113",
     "website": ""
+  },
+  {
+    "isWeb": true,
+    "isAndroid": false,
+    "isIOS": false,
+    "isWindows": true,
+    "logo": "AdMobAnalyzer.png",
+    "name": "AdMob Analyzer",
+    "playStore": "",
+    "appStore": "",
+    "website": "https://admobanalyzer.web.app"
   }
 ]
