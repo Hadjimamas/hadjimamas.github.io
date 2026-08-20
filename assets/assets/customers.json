@@ -3,5 +3,15 @@
     "logo": "assets/mimapLogo.png",
     "name": "Mimap Rent",
     "website": "https://mimaprent.com"
+  },
+  {
+    "logo": "assets/nicole_logo.png",
+    "name": "Nicole Makeup",
+    "website": "https://makeupartistnicole.web.app"
+  },
+  {
+    "logo": "assets/newham_logo.png",
+    "name": "Newham",
+    "website": "https://mimaprent.com"
   }
 ]

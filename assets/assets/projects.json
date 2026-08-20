@@ -53,5 +53,16 @@
     "playStore": "",
     "appStore": "",
     "website": "https://admobanalyzer.web.app"
+  },
+  {
+    "isWeb": true,
+    "isAndroid": false,
+    "isIOS": false,
+    "isWindows": false,
+    "logo": "ASOAtlasLogo.png",
+    "name": "ASO Atlas",
+    "playStore": "",
+    "appStore": "",
+    "website": "https://aso-tool.andreashadjimama.workers.dev"
   }
 ]
